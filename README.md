@@ -22,7 +22,6 @@ A sleek, real-time video conferencing application built with modern technologies
 ✅ Create or join video meetings  
 ✅ Real-time video and audio powered by Stream  
 ✅ Responsive, modern UI with Tailwind CSS  
-✅ Instant user presence and activity detection  
 ✅ Works across devices and browsers  
 
 ---
